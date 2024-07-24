@@ -14,7 +14,7 @@ This repository contains the design and code for a 5 Degree of Freedom (DOF) rob
 ## Introduction
 
 The 5-DOF robotic arm is a versatile and highly functional device designed for various applications, including automation, education, and research. It is equipped with five motors, allowing precise control and a wide range of motion for its end effector.
-- [Usage](#usage)
+- [Click here to show design!](https://github.com/rayyanwbz/Robotic_Arm/blob/main/Robotic%20Arm.stl)
 ![Copy of Robotic Arm](https://github.com/user-attachments/assets/57037ada-d496-4c3c-950e-1198ea4a6d8e)
 
 
